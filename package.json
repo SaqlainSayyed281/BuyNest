@@ -1,0 +1,27 @@
+{
+  "name": "buynest",
+  "version": "1.0.0",
+  "description": "BuyNest is a full-stack e-commerce web application built with React, TypeScript, and Tailwind CSS on the frontend, and Node.js with Express.js and MongoDB on the backend.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaqlainSayyed281/BuyNest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/SaqlainSayyed281/BuyNest/issues"
+  },
+  "homepage": "https://github.com/SaqlainSayyed281/BuyNest#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "mongoose": "^9.1.4"
+  }
+}
